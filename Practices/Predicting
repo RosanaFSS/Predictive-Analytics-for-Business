@@ -1,4 +1,4 @@
-Practicing for projects 
+Models I practiced 
 
 * Decision Trees
   Decision Trees are prone to an error called over fitting, where the model fits the sample data too well, and as a result, does not predict future results as well as it should.
@@ -10,3 +10,13 @@ Practicing for projects
   Each tree is created by different randomly generated chunks of the original data.
   It looks at the results as a whole to make a prediction.
   Each individual tree created still has overfitting issues, but when you look at the results as a whole, the overfitting gets averaged out by all of the other trees.
+
+* Boosted Model
+  Forest Models might give us a better estimate than decision trees, but they're computationally intensive
+  How the Boosted model avoids overfitting
+  Instead of creating a bunch of random trees, the boosted model makes one tree.
+  - Algorithm performs an analysis on the errors of the tree to identify the biggest source of error.
+  - Changes the tree to reduce that error.
+  - Does the analysis again to find the next biggest error.
+  - Makes a change to reduce it.
+  - Does this over and over until it can’t make the tree any better and we have our finished Boosted Model.
