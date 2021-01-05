@@ -1,11 +1,11 @@
 Practicing for projects 
 
-**Decision Trees**
+*Decision Trees
 Decision Trees are prone to an error called over fitting, where the model fits the sample data too well, and as a result, does not predict future results as well as it should.
 
 A technique that helps to eliminate this issues is the Random Forest Model.
 
-**Random Forest Model**
+*Random Forest Model
 A Forest Model creates hundreds of trees, called an ensemble of decision trees
 Each tree is created by different randomly generated chunks of the original data.
 It looks at the results as a whole to make a prediction.
