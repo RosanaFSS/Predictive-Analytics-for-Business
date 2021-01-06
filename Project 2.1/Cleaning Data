@@ -1,0 +1,11 @@
+Data Cleanup
+
+The Business Problem
+Pawdacity is a leading pet store chain in Wyoming with 13 stores throughout the state. This year, Pawdacity would like to expand and open a 14th store. My manager asked me to perform an analysis to recommend the city for Pawdacity’s newest store, based on predicted yearly sales.
+
+Details
+•	The costs of printing and distributing is $6.50 per catalog.
+•	The average gross margin (price - cost) on all products sold through the catalog is 50%.
+•	Revenue must be multiplied by the gross margin first before subtracted out the $6.50 cost when calculating profit.
+•	I must write a short report with recommendations outlining reasons why the company should go with recommendations to my manager.
+
