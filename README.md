@@ -1,2 +1,3 @@
 # Predictive-analytics-for-business
-Practicing prediction for Udacity nanodegree
+
+Practicing prediction analysis for Udacity nanodegree
